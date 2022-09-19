@@ -1,0 +1,10 @@
+Will be using an AVL tree for this data structure.
+The number of unique keys in this data structure is: 340856
+removing key 78804726
+Now the size is: 340855
+Getting value now for key 98422726
+Student{info='s_2', id=98422726}
+The next key of 98422726 is: 98423726
+The previous key of 98422726 is: 98422537
+The number of keys between 22439726 and 98422726 is: 258799
+All key method is printed to the console
